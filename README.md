@@ -3,11 +3,11 @@
 
 - 🔭 **Apasionado por la tecnologia.**
 
-- 👯 **Estoy aprendiendo cosas nuevas!!**
+- 🧠 **Estoy aprendiendo cosas nuevas!!**
 
 - ⚡ **Código Bits**
 
-- 💬 Ask me about **Subiendo proyectos personales!!**
+- 💬 **Subiendo proyectos personales!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
