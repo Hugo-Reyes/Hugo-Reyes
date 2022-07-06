@@ -1,7 +1,11 @@
 <h1 align="center">Hola!👋,yo soy Hugo Reyes</h1>
 <h3 align="center">Tengo 23 años Estudiante de Ing.en Sistemas Computacionales, del TECNM Campus Orizaba,</h3>
 
-<p align="left"> <a href="https://twitter.com/@hugoyrl" target="blank"><img src="https://img.shields.io/twitter/follow/@hugoyrl?logo=twitter&style=for-the-badge" alt="@hugoyrl" /></a> </p>
+- 🔭 **Apasionado por la tecnologia.**
+
+- 👯 **Estoy aprendiendo cosas nuevas!!**
+
+- ⚡ **Código Bits**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
