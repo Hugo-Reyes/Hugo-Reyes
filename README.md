@@ -11,7 +11,7 @@
 
 - 👨‍💻 GDG Orizaba **👨‍💻 GDG Orizaba**
 
-- 📫 Hugoyamil.rl@gmail.com **📫 Hugoyamil.rl@gmail.com**
+- 📫 Hugoyamil.rl@gmail.com 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
