@@ -1,16 +1,16 @@
 <h1 align="center">Hola!👋 yo soy Hugo Yamil Reyes👨🏼‍💻🎮</h1>
-<h3 align="center">Tengo 23 años Estudiante de Ing.en Sistemas Computacionales, del TECNM Campus Orizaba</h3>
+<h3 align="center">Tengo 23 años Estudiante de Ing.en Sistemas Computacionales Titulado, Egresado del TECNM Campus Orizaba</h3>
 
 
 - ⚡ Código Bits 
 - 👨‍💻 GDG Orizaba 
 
 - 🔭 Apasionado por la tecnologia. 
-- 🧠 Estoy aprendiendo cosas nuevas!! 
+- 🧠 Estoy aprendiendo cosas nuevas, en Camino a ING. DevOps!! 
 
 - 💬 Subiendo proyectos personales!! 
 
-- 📫 Hugoyamil.rl@gmail.com 
+- 📫 Hugo_rl@outlook.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
